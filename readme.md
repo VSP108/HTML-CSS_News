@@ -10,7 +10,7 @@
 
 ## Github Pages
 
-Ссылка на Github Pages, https://vsp108.github.io/HTML-CSS_News/
+Ссылка на Github Pages, https://theCryptoVed.github.io/HTML-CSS_News/
 
 ## License
 
